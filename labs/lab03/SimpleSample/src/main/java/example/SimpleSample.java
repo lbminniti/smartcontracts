@@ -150,7 +150,7 @@ public class SimpleSample extends ChaincodeBase {
 
 	@Override
 	public String getChaincodeID() {
-		return "lbminniti";
+		return "SimpleSample";
 	}
 
 	public static void main(String[] args) throws Exception {
